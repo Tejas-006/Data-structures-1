@@ -1,0 +1,5 @@
+C. An operating system allocates a fixed time slot CPU time for processes using a round-robin scheduling algorithm. The fixed time slot will be initialized before the start of the menu-driven program. Implement the round-robin scheduling algorithm using the circular linked list. Implement the program by including the appropriate header file. It consists of the following operations.  
+  
+1. Insert Process  
+2. Execute  
+3. Exit  
